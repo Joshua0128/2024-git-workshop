@@ -1,0 +1,4 @@
+# some settings
+
+VERSION = 0.0.1
+PLATFORM = 'ios'
