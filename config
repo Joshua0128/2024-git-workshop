@@ -1,4 +1,4 @@
 # some settings
 
-version = 0.0.1
-platform = 'ios'
+VERSION = 0.0.1
+PLATFORM = 'ios'
